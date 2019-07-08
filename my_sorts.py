@@ -15,7 +15,7 @@ def my_insert_sort(ray):
 
 
 # Though I can set this to allow for decimals to read out properly,
-# this mainly to test the insert sort and for quick use of this sort in later code.
+# this is mainly to test the insert sort and for quick use of this sort in later code.
 test = [22, 1, 13, 105, 6, 22, 109, 11100, 11.11]
 my_insert_sort(test)
 print("Sorted:")
